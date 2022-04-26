@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T05:44:38.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="34XpwchWADXIxkVV3WRH" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T15:30:27.753Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="EfX8aBdcox48xzOlQGZs" version="17.4.6" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
-    <mxGraphModel dx="1354" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,34 +37,34 @@
         <mxCell id="73" value="06.02" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000018" y="400.0000000000001" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="74" value="3" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="74" value="3" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="86.50000000000027" y="419.9999999999998" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="75" value="아이디어 도출 및 와이어 프레임 초안작성" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="75" value="아이디어 도출 및 와이어 프레임 초안작성" style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="126.50000000000027" y="419.9999999999998" width="319.9999999999997" height="20.000000000000014" as="geometry" />
         </mxCell>
-        <mxCell id="76" value="2 days" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="76" value="2 days" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="446.500000000002" y="419.9999999999997" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="77" value="04.22" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="77" value="04.22" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="526.5000000000023" y="419.9999999999997" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="78" value="04.23" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="78" value="04.23" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="606.5000000000018" y="420" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="79" value="4" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="79" value="4" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="86.5" y="440.00000000000017" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="80" value="API 명세서 초안 작성" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="80" value="API 명세서 초안 작성" style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="126.5" y="440.00000000000017" width="320" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="81" value="1 day" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="81" value="1 day" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="446.5000000000017" y="440.0000000000001" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="82" value="04.23" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="82" value="04.23" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="526.500000000002" y="440.0000000000001" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="83" value="04.23" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="83" value="04.23" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="606.5000000000015" y="440.0000000000004" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="84" value="5" style="strokeColor=#DEEDFF" parent="1" vertex="1">
@@ -247,19 +247,19 @@
         <mxCell id="143" value="06.02" style="strokeColor=#DEEDFF;fillColor=#CCE5FF" parent="1" vertex="1">
           <mxGeometry x="606.5000000000011" y="680.0000000000023" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="144" value="17" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="144" value="17" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="86.500000000001" y="700.0000000000023" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="145" value="와이어 프레임 1차 완성" style="align=left;strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="145" value="와이어 프레임 1차 완성" style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="126.500000000001" y="700.0000000000023" width="319.999999999999" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="146" value="1 day" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="146" value="1 day" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="446.50000000000273" y="700.0000000000023" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="147" value="04.25" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="147" value="04.25" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="526.500000000003" y="700.0000000000023" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="148" value="04.25" style="strokeColor=#DEEDFF" parent="1" vertex="1">
+        <mxCell id="148" value="04.25" style="strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="606.5000000000025" y="700.0000000000025" width="80.00000000000028" height="20" as="geometry" />
         </mxCell>
         <mxCell id="149" value="18" style="strokeColor=#DEEDFF" parent="1" vertex="1">
