@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-03T02:05:43.016Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="JZEzvOrPQlh5VsqkHKFX" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-03T07:49:03.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="c5nN-eqmC93wfhvT7Vd8" version="17.5.0" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
-    <mxGraphModel dx="1680" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1858" dy="266" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -418,6 +418,21 @@
           <mxGeometry x="0.8963" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="X8C_zfm3KMX-RgAe-6rS-1" value="time" style="swimlane;html=1;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="-180" y="694" width="200" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="X8C_zfm3KMX-RgAe-6rS-2" value="&lt;span style=&quot;font-weight: 400&quot;&gt;timeId&lt;br&gt;countryId&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;top=0;left=0;right=0;bottom=1;html=1;align=left;verticalAlign=middle;fillColor=none;spacingLeft=60;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;fontStyle=5;" vertex="1" parent="X8C_zfm3KMX-RgAe-6rS-1">
+          <mxGeometry y="26" width="200" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X8C_zfm3KMX-RgAe-6rS-3" value="&lt;span style=&quot;font-weight: normal&quot;&gt;PK&lt;br&gt;FK&lt;br&gt;&lt;/span&gt;" style="shape=partialRectangle;fontStyle=1;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" vertex="1" connectable="0" parent="X8C_zfm3KMX-RgAe-6rS-2">
+          <mxGeometry width="56" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="X8C_zfm3KMX-RgAe-6rS-4" value="standardTime" style="shape=partialRectangle;top=0;left=0;right=0;bottom=0;html=1;align=left;verticalAlign=top;fillColor=none;spacingLeft=60;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;dropTarget=0;" vertex="1" parent="X8C_zfm3KMX-RgAe-6rS-1">
+          <mxGeometry y="70" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="X8C_zfm3KMX-RgAe-6rS-5" value="" style="shape=partialRectangle;top=0;left=0;bottom=0;html=1;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[];portConstraint=eastwest;part=1;" vertex="1" connectable="0" parent="X8C_zfm3KMX-RgAe-6rS-4">
+          <mxGeometry width="56" height="50.000000000000014" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
